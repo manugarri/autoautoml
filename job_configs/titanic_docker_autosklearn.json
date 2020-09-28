@@ -1,0 +1,27 @@
+{
+    "platform": "docker",
+    "data": {
+        "target_column": "Survived",
+        "problem_type": "classification",
+        "feature_columns": ["Pclass", "Sex", "Age", "SibSp", "Parch", "Fare", "Cabin", "Embarked"],
+        "training_path": "/tests/data/titanic_train.csv",
+        "test_path": "/tests/data/titanic_test.csv",
+        "categorical_columns": ["Sex", "Embarked"]
+    },
+    "containers": [
+        {
+            "name": "autosklearn",
+            "automl_settings": {
+                "resampling_strategy":"holdout",
+                "resampling_strategy_arguments":{"train_size": 0.9},
+                "n_jobs":4,
+                "time_left_for_this_task": 60
+            }
+        }
+    ],
+    "artifacts": {
+        "model_path": "pipeline.pkl",
+        "metadata_path": "metadata.json",
+        "test_predictions_path": "test_predictions.csv"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "platform": "awsbatch",
+    "job_dir": "s3://BUCKET/automl/titanic",
+    "data": {
+        "target_column": "Survived",
+        "problem_type": "classification",
+        "feature_columns": ["Pclass", "Sex", "Age", "SibSp", "Parch", "Fare", "Cabin", "Embarked"],
+        "training_path": "train.csv",
+        "test_path": "test.csv",
+        "categorical_columns": ["Sex", "Embarked"]
+    },
+    "environment": {},
+    "containers": [
+        {
+            "name": "autosklearn",
+            "automl_settings": {"time_left_for_this_task": 600},
+            "platform_settings":{
+                "vcpus": 1,
+                "memory": 2000
+            }
+        },
+        {
+            "name": "h2o",
+            "automl_settings":{"max_runtime_secs":600},
+            "platform_settings":{
+                "vcpus": 1,
+                "memory": 1000
+            }
+        },
+        {
+            "name": "tpot",
+            "automl_settings": {
+                "generations":2,
+                "population_size":20,
+                "random_state":42,
+                "verbosity":2,
+                "memory": "auto",
+                "n_jobs": 1,
+                "max_time_mins": 10
+            },
+            "platform_settings":{
+                "vcpus": 1,
+                "memory": 2000
+            }
+        }
+    ],
+    "artifacts": {
+        "model_path": "pipeline.pkl",
+        "metadata_path": "metadata.json",
+        "test_predictions_path": "test_predictions.csv",
+        "test_predictions_columns": ["PassengerId", "Survived"]
+    }
+}

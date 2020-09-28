@@ -1,0 +1,31 @@
+{
+    "platform": "docker",
+    "data": {
+        "target_column": "Survived",
+        "problem_type": "classification",
+        "feature_columns": ["Pclass", "Sex", "Age", "SibSp", "Parch", "Fare", "Cabin", "Embarked"],
+        "training_path": "/tests/data/titanic_train.csv",
+        "test_path": "/tests/data/titanic_test.csv",
+        "categorical_columns": ["Sex", "Embarked"]
+    },
+    "containers": [
+        {
+            "name": "tpot",
+            "automl_settings": {
+                "generations":2,
+                "population_size":20,
+                "random_state":42,
+                "verbosity":2,
+                "memory": "auto",
+                "n_jobs": 4,
+                "max_time_mins": 1,
+                "early_stop": 3
+            }
+        }
+    ],
+    "artifacts": {
+        "model_path": "pipeline.pkl",
+        "metadata_path": "metadata.json",
+        "test_predictions_path": "test_predictions.csv"
+    }
+}

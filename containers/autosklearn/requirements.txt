@@ -1,0 +1,3 @@
+auto-sklearn==0.8
+category_encoders
+mlxtend

@@ -1,0 +1,6 @@
+{
+    "name": "ludwig",
+    "valid_problem_types": ["classification", "regression"],
+    "valid_automl_settings": ["training","input_features", "output_features"],
+    "automl_settings": {}
+}

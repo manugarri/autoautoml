@@ -1,0 +1,42 @@
+{
+    "platform": "docker",
+    "job_dir": "s3://BUCKET/automl/house-prices-advanced-regression-techniques",
+    "data": {
+        "target_column": "SalePrice",
+        "problem_type": "regression",
+        "feature_columns": ["LotFrontage", "LotArea", "OverallQual", "OverallCond",
+        "YearBuilt", "YearRemodAdd", "BsmtFinSF1", "BsmtFinSF2", "BsmtUnfSF", "TotalBsmtSF",
+        "1stFlrSF", "2ndFlrSF", "LowQualFinSF", "GrLivArea", "BsmtFullBath", "BsmtHalfBath",
+        "FullBath", "HalfBath", "TotRmsAbvGrd", "Fireplaces",
+        "GarageYrBlt", "GarageCars", "GarageArea", "WoodDeckSF", "OpenPorchSF", "EnclosedPorch",
+        "3SsnPorch", "ScreenPorch", "PoolArea", "MiscVal", "MoSold", "YrSold"],
+        "training_path": "train.csv",
+        "test_path": "test.csv"
+    },
+    "environment": {
+    },
+    "containers": [
+        {
+            "name": "ludwig",
+            "automl_settings": {
+                "training": {
+                    "epochs": 1000,
+                    "staircase": true,
+                    "early_stop": 10
+                },
+                "output_features": [
+                    {
+                        "name": "SalePrice",
+                        "type": "numerical"
+                    }
+               ]
+             }
+        }
+    ],
+    "artifacts": {
+        "model_path": "pipeline.pkl",
+        "metadata_path": "metadata.json",
+        "test_predictions_path": "test_predictions.csv",
+        "test_predictions_columns": ["Id", "SalePrice"]
+    }
+}

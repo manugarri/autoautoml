@@ -1,0 +1,22 @@
+{
+    "platform": "docker",
+    "data": {
+        "target_column": "Survived",
+        "problem_type": "classification",
+        "training_path": "/tests/data/titanic_train.csv",
+        "test_path": "/tests/data/titanic_test.csv"
+    },
+    "containers": [
+        {
+            "name": "autokeras",
+            "automl_settings": {
+                "max_trials":3
+            }
+        }
+    ],
+    "artifacts": {
+        "model_path": "pipeline.pkl",
+        "metadata_path": "metadata.json",
+        "test_predictions_path": "test_predictions.csv"
+    }
+}

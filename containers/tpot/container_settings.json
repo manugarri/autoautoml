@@ -1,0 +1,14 @@
+{
+    "name": "tpot",
+    "valid_problem_types": ["classification", "regression"],
+    "valid_automl_settings": ["generations","population_size","random_state","verbosity","memory","n_jobs","max_time_mins"],
+    "automl_settings": {
+        "generations":5,
+        "population_size":20,
+        "random_state":42,
+        "verbosity":2,
+        "memory": "auto",
+        "n_jobs": 1,
+        "max_time_mins": 5
+    }
+}

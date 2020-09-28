@@ -1,0 +1,8 @@
+{
+    "name": "autosklearn",
+    "valid_problem_types": ["classification", "regression"],
+    "valid_automl_settings": ["time_left_for_this_task"],
+    "automl_settings": {
+        "time_left_for_this_task": 60
+    }
+}

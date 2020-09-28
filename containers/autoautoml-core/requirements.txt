@@ -1,0 +1,11 @@
+pandas
+requests
+botocore
+boto3
+dask[complete]
+fastparquet
+s3fs
+python-snappy
+featuretools
+category_encoders
+mlxtend

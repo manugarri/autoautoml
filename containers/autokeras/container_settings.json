@@ -1,0 +1,6 @@
+{
+    "name": "autokeras",
+    "valid_problem_types": ["classification", "regression"],
+    "valid_automl_settings": [],
+    "automl_settings": {}
+}

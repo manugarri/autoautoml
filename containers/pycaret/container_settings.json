@@ -1,0 +1,6 @@
+{
+    "name": "pycaret",
+    "valid_problem_types": [],
+    "valid_automl_settings": [],
+    "automl_settings":{}
+}

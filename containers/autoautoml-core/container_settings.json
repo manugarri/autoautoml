@@ -1,0 +1,6 @@
+{
+    "name": "autoautoml-core",
+    "valid_problem_types": [],
+    "valid_automl_settings": ["verbosity"],
+    "automl_settings": {}
+}

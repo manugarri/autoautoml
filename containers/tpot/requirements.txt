@@ -1,0 +1,12 @@
+deap
+tpot
+update_checker
+tqdm
+stopit
+scipy
+scikit-learn
+dask[delayed]
+dask-ml
+category_encoders
+mlxtend
+xgboost

@@ -1,0 +1,136 @@
+budget,genres,imdb_id,original_language,popularity,production_companies,production_countries,release_date,revenue,runtime,status,vote_average,vote_count
+,Horror,tt0085333,en,7.106757000000001,Columbia Pictures,United States of America,1983-12-08,21200000.0,110.0,Released,6.5,392.0
+103000000.0,Comedy,tt1951261,en,25.085639,Legendary Pictures,United States of America,2013-05-23,362000072.0,100.0,Released,6.0,2991.0
+17500000.0,Comedy,tt0486551,en,7.481125,Broken Lizard Industries,United States of America,2006-08-25,19179969.0,110.0,Released,5.8,173.0
+4000000.0,Drama,tt1613062,en,13.504065,Mr. Tamborine Man,United States of America,2011-03-18,253899.0,105.0,Released,7.3,42.0
+25000000.0,Science Fiction,tt0091981,en,1.278665,Brooksfilms,United States of America,1986-11-26,1579260.0,94.0,Released,5.1,12.0
+7000000.0,Drama,tt1403177,en,5.886972,DRO Entertainment,United States of America,2010-01-22,382946.0,106.0,Released,6.7,218.0
+,Documentary,tt0321376,es,0.5258689999999999,,Spain,2002-04-12,62153.0,120.0,Released,9.0,2.0
+4100000.0,Drama,tt0046247,en,3.826281,Twentieth Century Fox Film Corporation,United States of America,1953-09-16,36000000.0,135.0,Released,6.4,43.0
+,Drama,tt0809427,en,0.4997720000000001,,,2006-03-23,,63.0,Released,6.7,6.0
+,Comedy,tt0293124,de,0.8898309999999999,,Germany,2002-06-20,4508104.0,80.0,Released,4.1,8.0
+15000000.0,Comedy,tt2463288,en,7.844705,Lakeshore Entertainment,United States of America,2014-05-02,59209.0,95.0,Released,5.8,561.0
+6000000.0,Comedy,tt3202120,fr,4.707275,TF1 Films Production,France,2014-04-30,14348529.0,98.0,Released,5.8,217.0
+,Comedy,tt0094072,en,4.9122949999999985,Paramount Pictures,United States of America,1987-07-22,35114428.0,97.0,Released,6.3,68.0
+15000000.0,Drama,tt2247476,en,6.617708,Mandalay Pictures,United States of America,2014-08-22,30127963.0,115.0,Released,6.3,134.0
+22000000.0,Drama,tt0277027,en,12.935016,New Line Cinema,United States of America,2001-12-28,92542418.0,132.0,Released,7.2,542.0
+30000000.0,Comedy,tt1073498,en,6.416753,Regency Enterprises,United States of America,2008-01-24,84646831.0,84.0,Released,3.8,370.0
+,Action,tt1884457,en,2.4697720000000003,Pitchblack Pictures Inc.,United States of America,2013-02-09,1469.0,93.0,Released,4.7,36.0
+4000000.0,Drama,tt1065073,en,6.4305910000000015,IFC Films,United States of America,2014-06-05,44349000.0,164.0,Released,7.5,2008.0
+,Drama,tt0385726,en,5.244654,Walt Disney Pictures,United States of America,2006-01-13,42647449.0,118.0,Released,7.2,145.0
+,Comedy,tt0114496,en,3.743212,Spring Creek Productions,United States of America,1995-08-04,50892160.0,106.0,Released,5.7,60.0
+20000000.0,Thriller,tt0120890,en,13.924623,Mandalay Entertainment,United States of America,1998-03-20,67200000.0,108.0,Released,6.3,454.0
+37000000.0,Comedy,tt0381707,en,7.723341,Columbia Pictures,United States of America,2004-06-23,113086475.0,109.0,Released,6.3,704.0
+4000000.0,Documentary,tt0310793,en,11.393859,Alliance Atlantis Communications,United States of America,2002-10-09,35564473.0,120.0,Released,7.3,467.0
+,Comedy,tt1161443,es,0.8252200000000001,Telespan 2000,Spain,2009-07-02,2012927.0,84.0,Released,5.2,10.0
+,Comedy,tt0110518,en,0.535028,Trimark Pictures,United States of America,1994-05-15,1221832.0,97.0,Released,4.3,3.0
+30000000.0,Comedy,tt0790628,en,9.385769,New Line Cinema,United States of America,2013-03-14,27437881.0,100.0,Released,5.3,732.0
+14000000.0,Comedy,tt0090966,en,9.970485,Touchstone Pictures,United States of America,1986-01-31,62134225.0,103.0,Released,5.9,67.0
+,Drama,tt0103190,fr,1.484109,Cofimage 2,France,1991-10-30,138000.0,158.0,Released,6.6,17.0
+500000.0,Comedy,tt1193516,tr,1.6402709999999998,,,2008-02-22,5330000.0,90.0,Released,5.4,21.0
+7500000.0,Drama,tt1657510,en,5.6368550000000015,Day Twenty- Eight Films,United States of America,2013-10-17,1359910.0,101.0,Released,6.4,90.0
+25000000.0,Animation,tt0088814,en,9.806685,Walt Disney Pictures,United States of America,1985-07-24,21288692.0,80.0,Released,6.5,228.0
+13800000.0,Drama,tt0090863,en,11.613655,Silver Screen Partners,United States of America,1986-10-07,52293982.0,119.0,Released,6.7,297.0
+30000000.0,Drama,tt0405159,en,14.471373000000002,Lakeshore Entertainment,United States of America,2004-12-15,216763646.0,132.0,Released,7.7,2519.0
+15000000.0,Thriller,tt0163676,en,1.991904,Morgan Creek Productions,United States of America,2000-07-19,5217498.0,105.0,Released,4.7,15.0
+,Documentary,tt1680059,en,2.92387,Imax Film Entertainment,United States of America,2011-04-08,7732325.0,40.0,Released,7.2,20.0
+,Documentary,tt0832903,en,1.170876,,Canada,2006-09-09,240239.0,90.0,Released,7.3,13.0
+130000.0,Crime,tt0120042,en,0.471913,Blood Money Partners LP,United States of America,1997-12-18,1596.0,70.0,Released,6.2,5.0
+2000000.0,Drama,tt0054997,en,9.333533,Twentieth Century Fox Film Corporation,United States of America,1961-09-25,7600000.0,134.0,Released,7.6,243.0
+25000000.0,Comedy,tt0156841,en,2.9719990000000003,Paramount Pictures,United States of America,2000-03-03,24362772.0,108.0,Released,4.3,29.0
+,Comedy,tt1844048,ru,0.8649129999999999,Kinokompaniya CTB,Russia,2011-05-19,400134.0,82.0,Released,4.0,3.0
+,Documentary,tt0303297,en,0.173464,,,2002-09-21,405331.0,103.0,Released,8.0,3.0
+22000000.0,Drama,tt1423995,en,11.275132,Stone Productions,United States of America,2010-10-07,9479718.0,105.0,Released,5.2,195.0
+,Western,tt0053221,en,10.847383,Warner Bros.,United States of America,1959-03-17,5800000.0,141.0,Released,7.6,265.0
+17000000.0,Comedy,tt0120770,en,12.480685,Paramount Pictures,United States of America,1998-10-01,30331165.0,81.0,Released,5.9,202.0
+,Drama,tt0104756,en,9.968395,Universal Pictures,United States of America,1992-12-30,7286388.0,135.0,Released,6.6,108.0
+37000000.0,Drama,tt3076658,en,33.449723,New Line Cinema,United States of America,2015-11-25,173567581.0,133.0,Released,7.3,1963.0
+,Comedy,tt0009062,de,0.21572600000000006,Projektions-AG Union (PAGU),Germany,1917-11-30,,48.0,Released,9.5,1.0
+250000.0,Drama,tt0105508,en,0.003013,,,1992-09-11,340147.0,82.0,Released,5.9,8.0
+,Comedy,tt0077288,fr,3.140011,United Artists,France,1978-10-25,20424259.0,99.0,Released,6.9,57.0
+25000000.0,Comedy,tt0265208,en,13.083718,Regency Enterprises,United States of America,2004-04-09,30411183.0,108.0,Released,6.3,844.0
+16500000.0,Comedy,tt0815244,en,6.463883,Morgan Creek Productions,United States of America,2007-09-21,13620075.0,108.0,Released,6.0,242.0
+64000.0,Drama,tt0056663,fr,11.30591,Pathé Consortium Cinéma,France,1962-09-20,24517.0,85.0,Released,7.6,105.0
+,Drama,tt0033289,en,0.698176,Metro-Goldwyn-Mayer (MGM),United States of America,1940-03-15,,86.0,Released,4.0,1.0
+80000000.0,Comedy,tt1375670,en,23.981251,Columbia Pictures,United States of America,2010-06-24,271430189.0,102.0,Released,6.0,1746.0
+2000000.0,Comedy,tt0066808,en,4.331819,United Artists,United States of America,1971-04-28,11833696.0,82.0,Released,6.7,167.0
+,Comedy,tt1717578,en,1.296848,,United States of America,2010-09-18,,65.0,Released,8.0,21.0
+13000000.0,Drama,tt1954352,en,5.1384089999999984,,United States of America,2012-05-18,1832541.0,95.0,Released,5.6,14.0
+50000000.0,Drama,tt1210166,en,15.785663,Columbia Pictures,United States of America,2011-09-22,110206216.0,133.0,Released,7.0,1409.0
+23000000.0,Comedy,tt0120484,en,9.461823,Touchstone Pictures,United States of America,1998-11-06,185991646.0,90.0,Released,5.9,521.0
+,,tt0021004,en,0.110204,,,1930-01-01,,14.0,Released,8.0,2.0
+7000000.0,Comedy,tt0844671,en,10.36168,Metro-Goldwyn-Mayer (MGM),United States of America,2008-08-28,6230276.0,94.0,Released,4.8,48.0
+,Drama,tt0110729,en,4.025276,Avalon Studios,New Zealand,1994-09-02,2201126.0,99.0,Released,7.6,106.0
+,Drama,tt0367790,en,4.0815470000000005,Bad Aaas Cinema,United States of America,2004-01-20,365248.0,108.0,Released,6.7,13.0
+35000000.0,Drama,tt0395972,en,8.781298,Warner Bros.,United States of America,2005-02-12,25224242.0,126.0,Released,6.9,127.0
+,Drama,tt0112749,en,0.894647,Miramax,South Africa,1995-12-15,676525.0,106.0,Released,6.7,13.0
+15000.0,Horror,tt0055946,en,1.274228,Fairway International Pictures,United States of America,1962-06-08,3274.0,90.0,Released,2.8,18.0
+150000000.0,Adventure,tt0311113,en,8.693298,Universal Pictures,United States of America,2003-11-14,212011111.0,138.0,Released,6.9,808.0
+,Comedy,tt0087205,en,0.25254499999999996,,France,1985-02-01,,94.0,Released,6.3,6.0
+4200000.0,Horror,tt0100258,en,10.644165,Columbia Pictures Corporation,United States of America,1990-10-18,5835247.0,88.0,Released,6.7,198.0
+4000000.0,Comedy,tt0079470,en,10.714173,HandMade Films,United Kingdom,1979-08-17,20045115.0,94.0,Released,7.7,1230.0
+17000000.0,Comedy,tt0377092,en,11.454835,Paramount Pictures,United States of America,2004-04-30,129042871.0,97.0,Released,6.9,2401.0
+11500000.0,Drama,tt0110950,en,6.514592,Universal Pictures,United States of America,1994-02-18,20079850.0,99.0,Released,6.5,180.0
+,Documentary,tt4185572,en,2.408677,Chain Camera Pictures,United States of America,2015-02-27,411115.0,103.0,Released,7.6,55.0
+1100000.0,Horror,tt0124102,en,2.31478,Shooting Gallery,United States of America,1998-10-02,631221.0,86.0,Released,4.7,36.0
+35000000.0,Comedy,tt0083642,en,2.171346,Universal Pictures,United States of America,1982-07-23,69701637.0,114.0,Released,5.9,41.0
+40000.0,Documentary,tt0303353,en,2.6493,Ministry of Propaganda Films,United States of America,2002-01-18,1434436.0,93.0,Released,7.3,19.0
+,Drama,tt4375438,es,3.534068,Fabula,Chile,2015-05-28,52761.0,97.0,Released,6.6,66.0
+,Comedy,tt0063374,en,8.3539,Paramount Pictures,United States of America,1968-02-07,44527234.0,106.0,Released,7.5,121.0
+2000000.0,Western,tt0054047,en,10.650752,The Mirisch Corporation,United States of America,1960-10-22,4905000.0,128.0,Released,7.4,472.0
+,,tt0065187,en,0.452939,Fennada-Film,Finland,1969-03-07,,96.0,Released,0.0,0.0
+3000000.0,Horror,tt0489244,en,1.017103,Lux Digital Pictures,United States of America,2007-05-06,1449945.0,80.0,Released,4.0,12.0
+,Comedy,tt0094321,en,3.78346,The Guber-Peters Company,United States of America,1987-08-07,7305209.0,92.0,Released,5.2,51.0
+28000000.0,Drama,tt0119485,en,5.017519999999998,Touchstone Pictures,United States of America,1997-12-25,5684789.0,134.0,Released,6.8,92.0
+,Comedy,tt0448927,pt,2.9267990000000004,Quanta Centro de Produções Cinematográficas,Brazil,2006-01-06,,108.0,Released,6.4,60.0
+4638783.0,Western,tt0070518,en,5.781236,Metro-Goldwyn-Mayer (MGM),United States of America,1973-05-23,11000000.0,106.0,Released,7.2,67.0
+,Comedy,tt0083530,en,7.181664,Paramount Pictures,United States of America,1982-12-10,27150534.0,85.0,Released,6.0,276.0
+,Comedy,tt5661030,en,0.410738,Apostle,United States of America,2016-05-01,500.0,53.0,Released,7.7,3.0
+,Comedy,tt0104892,en,1.60034,Tribeca Productions,United States of America,1992-07-24,1102469.0,110.0,Released,5.7,10.0
+52000000.0,Drama,tt0112384,en,18.761467,Imagine Entertainment,United States of America,1995-06-30,355237933.0,140.0,Released,7.3,1637.0
+8500000.0,Comedy,tt1171222,en,5.590678,Sneak Preview Productions,United States of America,2013-09-27,22456509.0,96.0,Released,5.6,87.0
+,,tt0090904,en,0.004425,,,1986-05-09,2390525.0,95.0,Released,4.8,3.0
+3000000.0,Horror,tt0089686,en,8.668146,New Line Cinema,United States of America,1985-10-31,29999213.0,87.0,Released,5.7,367.0
+,Documentary,tt0120126,en,0.491945,Sick-the Life and Death of Bob Flanagan-Supermasochist,United States of America,1997-01-01,116806.0,90.0,Released,5.9,9.0
+20000000.0,Drama,tt2547584,en,8.483245,DreamWorks SKG,New Zealand,2016-09-02,25956113.0,133.0,Released,6.9,403.0
+4000000.0,Thriller,tt3181822,en,10.200398,Universal Pictures,United States of America,2015-01-23,52425855.0,91.0,Released,4.1,1034.0
+,Drama,tt0085863,en,0.495813,,United States of America,1983-10-02,1.0,92.0,Released,4.0,2.0
+,Drama,tt0329388,fr,8.260823,ARP Sélection,France,2003-12-03,11576431.0,94.0,Released,7.0,39.0
+26000000.0,Comedy,tt0357413,en,10.33012,Apatow Productions,United States of America,2004-07-09,90574188.0,94.0,Released,6.7,1523.0
+30000000.0,Comedy,tt0391304,en,10.596719,Mile High Productions,United States of America,2005-04-22,42886719.0,107.0,Released,6.5,329.0
+300000.0,Documentary,tt0436613,en,1.687901,Thinkfilm,United States of America,2005-07-22,1750211.0,88.0,Released,6.9,23.0
+,Documentary,tt1787777,en,1.373641,Participant Media,United States of America,2011-04-29,429766.0,88.0,Released,7.1,20.0
+,Documentary,tt0118147,en,3.60795,PolyGram Filmed Entertainment,United States of America,1996-10-25,2666118.0,89.0,Released,7.3,54.0
+,Western,tt0062472,en,3.874603,Universal Pictures,United States of America,1967-05-27,6000000.0,96.0,Released,6.6,36.0
+40000000.0,Adventure,tt1129445,en,5.308718,Fox Searchlight Pictures,United States of America,2009-10-22,19258519.0,111.0,Released,5.4,71.0
+,Comedy,tt2209400,pt,0.842744,Casé Filmes,Brazil,2012-06-22,,100.0,Released,5.8,20.0
+3500000.0,Horror,tt0092796,en,9.330087,New World Pictures,United States of America,1987-05-01,14000000.0,92.0,Released,5.9,133.0
+,Action,tt0061597,zh,2.814809,Shaw Brothers,Hong Kong,1967-07-26,,111.0,Released,6.8,23.0
+25000000.0,Drama,tt1647668,en,9.453942,Walt Disney Pictures,United States of America,2014-05-09,38307627.0,124.0,Released,6.6,264.0
+3000000.0,Comedy,tt0155776,en,7.434797,TriStar Pictures,United States of America,1999-01-30,3076820.0,87.0,Released,5.9,93.0
+1000000.0,Drama,tt0117666,en,9.475693,Miramax Films,United States of America,1996-08-30,24444121.0,135.0,Released,7.4,236.0
+,Drama,tt1827578,en,1.346317,,,2013-03-01,8326.0,89.0,Released,5.8,16.0
+10000000.0,Comedy,tt0118577,en,1.453096,Hollywood Pictures,United States of America,1998-02-20,45779.0,86.0,Released,3.0,9.0
+,Drama,tt0090203,en,1.210627,FilmDallas Pictures,United States of America,1985-12-20,7218340.0,108.0,Released,7.3,12.0
+9000000.0,Comedy,tt0110759,en,8.888278,Paul Schiff Productions,United States of America,1994-04-29,4350774.0,79.0,Released,6.0,42.0
+,Documentary,tt1398949,en,0.31754,Insurgent Media,United States of America,2011-04-06,99303.0,94.0,Released,6.5,4.0
+916000.0,Drama,tt1366338,en,4.612622,Imagine Entertainment,United States of America,2017-04-28,2403885.0,99.0,Released,7.0,20.0
+,Documentary,tt0912583,en,1.032566,VisionQuest Productions,United States of America,2007-10-05,312751.0,98.0,Released,6.9,19.0
+9000000.0,Drama,tt1185344,en,1.818296,Island Film Group,United States of America,2010-05-14,771499.0,130.0,Released,4.8,14.0
+37000000.0,Drama,tt0175880,en,9.091636,New Line Cinema,United States of America,1999-12-08,48451803.0,188.0,Released,7.5,844.0
+1100000.0,Drama,tt0013140,en,0.838095,Universal Film Manufacturing Company,United States of America,1922-01-11,400200.0,117.0,Released,6.4,10.0
+8500000.0,Comedy,tt0082801,en,3.950775,Columbia Pictures,United States of America,1981-12-18,29916207.0,94.0,Released,5.2,33.0
+42000000.0,Thriller,tt0184858,en,12.11759,Dimension Films,United States of America,2000-02-25,32168970.0,124.0,Released,5.3,175.0
+,Comedy,tt0487027,de,1.564913,Egoli Tossell Film,Germany,2006-04-26,,95.0,Released,5.6,10.0
+,Drama,tt2394063,en,1.714795,Foe Killer Films,United States of America,2016-03-25,7000.0,108.0,Released,7.5,16.0
+44000000.0,Drama,tt1438254,en,6.2731309999999985,Universal Pictures,United States of America,2010-05-01,48190704.0,99.0,Released,6.8,589.0
+55000000.0,Drama,tt0146838,en,10.571434,Donners' Company,United States of America,1999-12-16,100230832.0,163.0,Released,6.8,430.0
+5000000.0,Comedy,tt0424345,en,8.466725,The Weinstein Company,United States of America,2006-05-25,26888376.0,97.0,Released,6.9,407.0
+35000000.0,Comedy,tt2361509,en,15.651704999999998,Waverly Films,United States of America,2015-09-24,194564672.0,121.0,Released,7.1,1926.0
+1500000.0,Drama,tt0357110,en,4.173231,Elevation Filmworks,United States of America,2005-03-25,712294.0,111.0,Released,6.5,43.0
+1.0,Drama,tt1445208,en,2.240259,Freestyle Releasing,United States of America,2015-12-04,1.0,114.0,Released,5.6,10.0
+,Documentary,tt0486585,en,2.048857,,United States of America,2005-11-07,19791.0,93.0,Released,6.6,17.0
+,Comedy,tt0090206,fr,2.850417,Soprofilms,France,1985-09-18,2052466.0,106.0,Released,6.4,37.0
+1.0,Comedy,tt1695765,en,0.230075,,Mexico,2012-03-30,2755584.0,73.0,Released,6.0,3.0
+,Comedy,tt2282849,fr,9.754955,Canal+,France,2012-07-11,103504.0,98.0,Released,5.4,92.0
+1000000.0,Horror,tt3177316,en,6.107378,Fewlas Entertainment,United States of America,2014-09-12,9318.0,87.0,Released,5.4,261.0

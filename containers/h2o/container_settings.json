@@ -1,0 +1,8 @@
+{
+    "name": "h2o",
+    "valid_problem_types": ["classification", "regression"],
+    "valid_automl_settings": ["max_runtime_secs"],
+    "automl_settings": {
+        "max_runtime_secs": 60
+    }
+}
