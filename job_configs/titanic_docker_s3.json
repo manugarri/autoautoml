@@ -1,6 +1,6 @@
 {
     "platform": "docker",
-    "job_dir": "s3://BUCKET/automl/titanic",
+    "job_dir": "s3://YOUR_BUCKET/automl/titanic",
     "data": {
         "target_column": "Survived",
         "problem_type": "classification",

@@ -29,6 +29,8 @@ manual run:
 
 ```
  python bin/run_manual.py containers/auto-keras/test_autokeras.json
+
+ **Note** To use aws related resources (S3) you need to set the AWS credentials as environment variables in the job config. See `job_configs/titanic_docker_s3.json` as an example.
 ```
 
 # How to add a container
